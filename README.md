@@ -1,1 +1,3 @@
-# Project_frontend
+# Project_frontend_1_задание
+# Сергеева Диана
+# КИ21-21Б
